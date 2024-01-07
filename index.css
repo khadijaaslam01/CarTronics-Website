@@ -1,0 +1,329 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Gotham", Sans-serif;
+}
+/* nav styling */
+nav {
+  background-color: #424141;
+  height: 134.5px;
+}
+
+nav .active {
+  background-color: #d7532c;
+}
+.nav_logo {
+  width: 250px !important;
+  height: 150px !important;
+  margin-top: 35px;
+  margin-left: 80px;
+}
+
+nav-lick:active {
+  background-color: #d7532c;
+}
+
+@media only screen and (max-width: 1250px) {
+  .nav_logo {
+    margin-top: 15px;
+    margin-left: 30px;
+  }
+}
+
+@media only screen and (max-width: 979px) {
+  .logo-placement {
+    margin-left: 350px;
+  }
+}
+@media only screen and (max-width: 789px) {
+  .logo-placement {
+    margin-left: 250px;
+  }
+}
+@media only screen and (max-width: 669px) {
+  .logo-placement {
+    margin-left: 200px;
+  }
+}
+@media only screen and (max-width: 685px) {
+  .logo-placement {
+    margin-left: 180px;
+  }
+}
+
+/* crousel height */
+.slider_height {
+  height: 85vh;
+}
+
+.caption-crousel {
+  margin-top: -350px;
+}
+
+.crousel-heading {
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.crousel-button {
+  background-color: #d7532c;
+  padding: 10px 20px 10px 20px;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+}
+
+/* welcome to cartonics page */
+.text-color {
+  color: #d7532c;
+}
+
+.vedio {
+  height: 360px;
+  width: 600px;
+  margin-left: 50px;
+}
+
+.form-button {
+  background-color: #d7532c;
+  padding: 10px 20px 10px 20px;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 1200px) {
+  .vedio {
+    height: 360px;
+    width: 500px;
+    margin-left: 40px;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .vedio {
+    height: 360px;
+    width: 450px;
+    margin-left: 20px;
+  }
+}
+@media only screen and (max-width: 990px) {
+  .vedio {
+    height: 360px;
+    width: 700px;
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width: 790px) {
+  .vedio {
+    height: 360px;
+    width: 600px;
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .vedio {
+    height: 300px;
+    width: 500px;
+    margin-left: 0px;
+  }
+}
+
+/* who we are */
+
+.who-color {
+  background: #efefef;
+}
+.who-we-are {
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+@media only screen and (max-width: 1250px) {
+  .who-we-are {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .who-we-are {
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .who-we-are {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .who-we-are {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+}
+@media only screen and (max-width: 610px) {
+  .who-we-are {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .who-we-are {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+.about-button {
+  background-color: #d7532c;
+  padding: 10px 20px 10px 20px;
+  border: 0px;
+  border-radius: 20px;
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+}
+
+/* what we do */
+
+.what-color {
+  background: #d7532c;
+}
+.who-we-do {
+  margin-left: 350px;
+  margin-right: 350px;
+}
+.banners {
+  height: 260px;
+  width: 200px;
+  background-color: white;
+}
+.logo-sizes {
+  height: 70px;
+  width: 70px;
+}
+@media only screen and (max-width: 1250px) {
+  .who-we-do {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .who-we-do {
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .who-we-do {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .who-we-do {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+}
+@media only screen and (max-width: 610px) {
+  .who-we-do {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .who-we-are {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+.text-size {
+  font-family: "Gotham", Sans-serif;
+  font-weight: 500;
+  line-height: 25px;
+}
+.discover-button {
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  border: 0px;
+  border-radius: 20px;
+  font-size: 23px;
+  color: #d7532c;
+  font-weight: bold;
+}
+
+/* why cartonics */
+.text-sizes {
+  font-family: "Gotham bold", Sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+/* appintments */
+
+.appointment {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+@media only screen and (max-width: 1250px) {
+  .appointment {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .appointment {
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .appointment {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .appointment {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+}
+@media only screen and (max-width: 610px) {
+  .appointment {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  appointment {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+/* footer */
+
+footer {
+  background-color: #424141;
+}
+.footer-text {
+  color: white;
+}
+
+.footer-text:hover {
+  color: #d7532c;
+  text-decoration: underline;
+}
